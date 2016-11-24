@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_470af2ccc37d8345fd88f5cfd3f897737f2b4fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_59cdc83859ccb1cf435a7d90ca8c4e6ec7975720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Documents/macAndroiddeveloperTools/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_7b0a8310c15334ed7f4ff81dbffef8bf33bc49d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_df5c27c747f3def9f911d84faacc073d29b56b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_cd7f89321d983b91a09b125c275985577cdbbccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_806aa1663488f44cddb997384feab19e7d73238b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a6914d920d8fd4cd4891eadf78e1b463af7d44b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_902c6b9360d67f70796563c33fefd041d8d8be2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8fc6450216ac1d357b0c4d7f2940afb22e6490dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8cde6638bc2e837d72b9d878d1c65dd9ead80497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_e8172645cb62c93b98d5ae4b9a6e47fd304b55eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_949515ab8e971bdf6482feaabb18d877857c3c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_9e09793788bebbf7ac5cd893591524881f0ceac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_95ce7d3692f0558305ef3acc07cf9dedb5e4ee42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/bluesky/Desktop/未命名文件夹/JNI_NDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_15789a6489a551d55bf972b25f67e5057d65be07.jar" />
+    </item>
+
+</items>
