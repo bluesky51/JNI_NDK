@@ -1,4 +1,4 @@
-1.AndroidStudio(AS)安装配置ndk;  
+####1.AndroidStudio(AS)安装配置ndk;  
     1>下载各个系统版本的NDK网址：http://www.androiddevtools.cn/  
     2>解压ndk的压缩包在非中文的目录下；  
     3>配置路径:  
